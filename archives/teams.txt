@@ -1,0 +1,14 @@
+Heath Risk Communication Abuja
+https://hackdash.org/dashboards/hhrcabj
+
+
+1. Star Team: Directory/Listing from NCDC
+2. TECHE: Volunteer mgt. Already existing solution
+3. Risk Alert: Aggregate social media users
+4. Matzapp: Everybody is using an app to "disemminate". We're tayad!
+5 [1]. Creative Minds: Infodemic Using existing social structures to reach communities
+6 [2]. HEA: Amebo Verify: rumour verification.
+7. Alexa for Health: emergency response systems, location based
+8. GERCEE Hub: Broadcast messages using cell towers
+9 [3]. Wakanda: Mobile app with health updates like a chat
+10. eInfo Team: Path4Life: IVR via Twilio
